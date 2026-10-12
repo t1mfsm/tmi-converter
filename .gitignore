@@ -1,0 +1,18 @@
+# Исходные документы задания: могут быть конфиденциальными
+docs/
+
+# Результаты сборки
+target/
+
+# Bundle для сдачи
+*.bundle
+
+# Файлы IDE и ОС
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+.DS_Store
+Thumbs.db
